@@ -1,0 +1,22 @@
+lastAccountName: PLU_luvGF
+timestamps:
+  login: 1563370299008
+  lastteleport: 1563303979308
+  logout: 1563308741046
+ipAddress: 25.69.213.177
+lastlocation:
+  world: world
+  x: -492.29317481743357
+  y: 137.0625
+  z: -157.98128171930688
+  yaw: -31.678904
+  pitch: 26.099989
+geolocation: United Kingdom
+logoutlocation:
+  world: world
+  x: -508.6813223491273
+  y: 72.4930431052786
+  z: -251.02032216131457
+  yaw: 220.61887
+  pitch: 5.0998974
+afk: true

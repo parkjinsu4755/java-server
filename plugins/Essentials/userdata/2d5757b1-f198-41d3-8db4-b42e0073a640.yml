@@ -1,0 +1,21 @@
+geolocation: United Kingdom
+lastAccountName: fake_ruby
+timestamps:
+  login: 1562091295205
+  logout: 1562092899384
+  lastteleport: 1562092452813
+ipAddress: 25.71.154.235
+lastlocation:
+  world: world
+  x: -520.0530141789545
+  y: 65.9375
+  z: -219.15685964597745
+  yaw: 273.56915
+  pitch: 19.199905
+logoutlocation:
+  world: world
+  x: -494.3000000119209
+  y: 72.0
+  z: -198.59792183936926
+  yaw: 90.74347
+  pitch: 25.200146

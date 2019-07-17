@@ -1,0 +1,56 @@
+Riding:
+  Settings:
+    Undead:
+      Name: §2언데드
+      Probability: 3
+    Skeleton:
+      Name: §f스켈레톤
+      Probability: 3
+    Black:
+      Name: §0흑마
+      Probability: 7
+    White:
+      Name: §f백마
+      Probability: 7
+    Creamy:
+      Name: §7크림색
+      Probability: 20
+    Brown:
+      Name: §6갈색
+      Probability: 20
+    Darkbrown:
+      Name: §6짙은 갈색
+      Probability: 20
+    Chestnut:
+      Name: §6밤색
+      Probability: 20
+    Experience:
+      enable: true
+      MaxExp: 100
+      Foods:
+        Sugar: 1
+        Wheat: 2
+        Apple: 2
+        Bread: 7
+        GoldenApple: 30
+        HayBlock: 22
+  SpawnItem:
+    ID: 339
+    DATA: 0
+  Paper:
+    ID: 339
+    DATA: 0
+    Name: §f[ §b라이딩 §e뽑기권 §f]
+    Lore:
+    - §f해당 아이템을 들고 §e우클릭 §f하시면,
+    - §f당신의 말을 뽑습니다.
+    - §f
+    - §b말 목록
+    - §dUnique §f스켈레톤
+    - §dUnique §2언데드
+    - §eRarely §0흑마
+    - §eRarely §f백마
+    - §6갈색
+    - §6밤색
+    - §7크림색
+    - §6짙은 갈색

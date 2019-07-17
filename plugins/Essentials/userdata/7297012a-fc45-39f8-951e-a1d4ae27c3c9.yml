@@ -1,0 +1,22 @@
+geolocation: United Kingdom
+lastAccountName: YuYoon
+timestamps:
+  login: 1563369484783
+  lastteleport: 1563372397588
+  logout: 1563304211445
+ipAddress: 25.69.179.29
+lastlocation:
+  world: world
+  x: -726.5044263383521
+  y: 12.0
+  z: -149.7262848215166
+  yaw: -264.62277
+  pitch: 10.499625
+logoutlocation:
+  world: world
+  x: -489.7487985084974
+  y: 65.0
+  z: -232.59315077015683
+  yaw: 89.36963
+  pitch: 34.0499
+afk: false

@@ -1,0 +1,204 @@
+[22:17:55] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[22:17:55] [Server thread/INFO]: Loading properties
+[22:17:55] [Server thread/INFO]: Default game type: SURVIVAL
+[22:17:55] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-acbc348 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[22:17:55] [Server thread/INFO]: Debug logging is disabled
+[22:17:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:17:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:17:55] [Server thread/INFO]: Generating keypair
+[22:17:56] [Server thread/INFO]: Starting Minecraft server on 25.69.213.177:25565
+[22:17:56] [Server thread/INFO]: Using default channel type
+[22:17:56] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[22:17:56] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v19.07.12-5cc5ce5-1277-22.3.0
+[22:17:56] [Server thread/INFO]: [UberEnchant] Loading UberEnchant v7.6
+[22:17:56] [Server thread/INFO]: [M-Horse] Loading M-Horse v1.0
+[22:17:56] [Server thread/INFO]: [BindUI] Loading BindUI v0.1
+[22:17:56] [Server thread/INFO]: [M-Library] Loading M-Library v1.0
+[22:17:56] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[22:17:56] [Server thread/INFO]: [Vault] Loading Vault v1.6.1
+[22:17:56] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:17:56] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.2.2
+[22:17:56] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b600
+[22:17:56] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.0.1-b600
+[22:17:56] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.0.1-b600
+[22:17:56] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.0.1-b600
+[22:17:56] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.0.1-b600
+[22:17:56] [Server thread/INFO]: [TriggerReactor] Loading TriggerReactor v2.1.8
+[22:17:56] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b600
+[22:17:56] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v19.07.12-5cc5ce5-1277-22.3.0
+[22:17:57] [Server thread/INFO]: ====== USE PAPER ======[m
+[22:17:57] [Server thread/INFO]: DOWNLOAD: https://ci.destroystokyo.com/job/PaperSpigot/[m
+[22:17:57] [Server thread/INFO]: GUIDE: https://www.spigotmc.org/threads/21726/[m
+[22:17:57] [Server thread/INFO]:  - This is only a recommendation[m
+[22:17:57] [Server thread/INFO]: ==============================[m
+[22:17:57] [Server thread/INFO]: [Vault] Enabling Vault v1.6.1
+[22:17:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:17:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:17:57] [Server thread/INFO]: [Vault] Plugin enabled (36ms)
+[22:17:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:17:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:17:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:17:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:17:57] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:17:57] [Server thread/INFO]: Preparing level "world"
+[22:17:57] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:17:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:17:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:17:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:17:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:17:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:17:57] [Server thread/INFO]: View Distance: 10
+[22:17:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:17:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:17:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:17:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:17:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:17:57] [Server thread/INFO]: Structure Info Saving: true
+[22:17:57] [Server thread/INFO]: Max TNT Explosions: 100
+[22:17:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:17:57] [Server thread/INFO]: Random Lighting Updates: false
+[22:17:57] [Server thread/INFO]: Mob Spawn Range: 4
+[22:17:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[22:17:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:17:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:17:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:17:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:17:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:17:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:17:57] [Server thread/INFO]: View Distance: 10
+[22:17:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:17:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:17:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:17:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:17:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:17:57] [Server thread/INFO]: Structure Info Saving: true
+[22:17:57] [Server thread/INFO]: Max TNT Explosions: 100
+[22:17:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:17:57] [Server thread/INFO]: Random Lighting Updates: false
+[22:17:57] [Server thread/INFO]: Mob Spawn Range: 4
+[22:17:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[22:17:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:17:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:17:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:17:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:17:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:17:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:17:57] [Server thread/INFO]: View Distance: 10
+[22:17:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:17:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:17:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:17:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:17:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:17:57] [Server thread/INFO]: Structure Info Saving: true
+[22:17:57] [Server thread/INFO]: Max TNT Explosions: 100
+[22:17:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:17:57] [Server thread/INFO]: Random Lighting Updates: false
+[22:17:57] [Server thread/INFO]: Mob Spawn Range: 4
+[22:17:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[22:17:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:17:57] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8286796179097808520)
+[22:17:58] [User Authenticator #1/INFO]: UUID of player YuYoon is 7297012a-fc45-39f8-951e-a1d4ae27c3c9
+[22:17:58] [Server thread/INFO]: Preparing spawn area: 42%
+[22:17:59] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8286796179097808520)
+[22:18:00] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8286796179097808520)
+[22:18:00] [Server thread/INFO]: [UberEnchant] Enabling UberEnchant v7.6
+[22:18:00] [Server thread/INFO]: [M-Horse] Enabling M-Horse v1.0
+[22:18:00] [Server thread/INFO]: [0;34;1m[ [0;36;1mÀÌÀü»ý [0;34;1m] [0;37;1m¡á¡á¡à¡à¡à¡à¡à¡à¡à¡à [20.00%] M-Library È£È¯ ¿Ï·á![m
+[22:18:00] [Server thread/INFO]: [0;34;1m[ [0;36;1mÀÌÀü»ý [0;34;1m] [0;37;1m¡á¡á¡á¡á¡à¡à¡à¡à¡à¡à [40.00%] ¶óÀÌµù ÀÌº¥Æ® »ý¼º![m
+[22:18:00] [Server thread/INFO]: [0;34;1m[ [0;36;1mÀÌÀü»ý [0;34;1m] [0;37;1m¡á¡á¡á¡á¡á¡á¡à¡à¡à¡à [60.00%] ¼³Á¤ ÆÄÀÏ ·Îµå![m
+[22:18:00] [Server thread/INFO]: [0;34;1m[ [0;36;1mÀÌÀü»ý [0;34;1m] [0;37;1m¡á¡á¡á¡á¡á¡á¡á¡á¡à¡à [80.00%] ¶óÀÌµù ½Ã½ºÅÛ »ý¼º![m
+[22:18:00] [Server thread/INFO]: [0;34;1m[ [0;36;1mÀÌÀü»ý [0;34;1m] [0;37;1m¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á [100%] ¸» °æÇèÄ¡ ½Ã½ºÅÛ È°¼ºÈ­[m
+[22:18:00] [Server thread/INFO]: [0;34;1m[ [0;36;1mÀÌÀü»ý [0;34;1m] [0;37;1mÇÃ·¯±×ÀÎÀÌ È°¼ºÈ­ µÇ¾ú½À´Ï´Ù. Á¦ÀÛÀÚ: ¹Ìµé[m
+[22:18:00] [Server thread/INFO]: [BindUI] Enabling BindUI v0.1
+[22:18:00] [Server thread/INFO]: [0;32;1mEnable BindUI!!!![m
+[22:18:00] [Server thread/INFO]: [M-Library] Enabling M-Library v1.0
+[22:18:00] [Server thread/INFO]: [0;34;1m[ [0;36;1mM-Library [0;33;1mv1.0 [0;34;1m] [0;37;1mÇÃ·¯±×ÀÎÀÌ È°¼ºÈ­ µÇ¾ú½À´Ï´Ù.[m
+[22:18:00] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[22:18:00] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:18:00] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:18:00] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[22:18:00] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.2.2
+[22:18:01] [Server thread/INFO]: [Shopkeepers] Loading data of 3 shopkeepers..
+[22:18:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b600
+[22:18:01] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[22:18:01] [Server thread/INFO]: No kits found to migrate.
+[22:18:01] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[22:18:01] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[22:18:01] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[22:18:01] [Server thread/INFO]: Using locale ko_KR
+[22:18:01] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
+[22:18:01] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:18:01] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[22:18:01] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:18:01] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.0.1-b600
+[22:18:01] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.0.1-b600
+[22:18:01] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.0.1-b600
+[22:18:01] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[22:18:01] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.0.1-b600
+[22:18:01] [Server thread/INFO]: [TriggerReactor] Enabling TriggerReactor v2.1.8
+[22:18:01] [Server thread/INFO]: [TriggerReactor] Enabled support for Vault Vault v1.6.1
+[22:18:01] [Server thread/INFO]: [TriggerReactor] Vault permission hooked.
+[22:18:01] [Server thread/INFO]: [TriggerReactor] Vault economy hooked.
+[22:18:03] [Server thread/INFO]: [TriggerReactor] Waiting for previous saving tasks...
+[22:18:03] [Server thread/INFO]: [TriggerReactor] Done! now reloading global variables...
+[22:18:03] [Server thread/INFO]: [TriggerReactor] Global variables were loaded from var.yml
+[22:18:03] [Server thread/WARN]: C:\Users\jinsu4755\Desktop\%eb%a7%88%ed%81%ac%eb%b2%84%ed%82%b7\testserver\spigot-1.12.2.jar (ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù)
+[22:18:03] [Server thread/INFO]: [TriggerReactor] Waiting for previous saving tasks...
+[22:18:03] [Server thread/INFO]: [TriggerReactor] Done! now reloading global variables...
+[22:18:03] [Server thread/INFO]: [TriggerReactor] Global variables were loaded from var.yml
+[22:18:03] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b600
+[22:18:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:18:03] [Server thread/INFO]: Done (6.503s)! For help, type "help" or "?"
+[22:18:04] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Detected class org.bukkit.event.block.BlockExplodeEvent[m
+[22:18:04] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.3.2
+[22:18:04] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[22:18:04] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[22:18:04] [Craft Scheduler Thread - 2/INFO]: [Vault] You are running the latest version
+[22:18:04] [Server thread/INFO]: YuYoon[/25.69.179.29:6706] logged in with entity id 395 at ([world]-489.7487985084974, 65.0, -232.59315077015683)
+[22:18:55] [User Authenticator #2/INFO]: UUID of player BBada is 08c13fc0-b005-37b1-a396-b5c6524ba28d
+[22:18:55] [Server thread/INFO]: BBada[/25.84.141.251:60150] logged in with entity id 442 at ([world]-449.17451053976555, 92.37277690007525, -206.6364903041338)
+[22:25:57] [User Authenticator #3/INFO]: UUID of player Rhuhoijin is dc4b3f62-c0e4-35cb-b3ee-3ef3979ebb8d
+[22:25:57] [Server thread/INFO]: Rhuhoijin[/25.59.15.106:50342] logged in with entity id 2156 at ([world]-499.5, 72.0, -209.5)
+[22:25:57] [pool-7-thread-1/INFO]: ºó ¼³Á¤ ÆÄÀÏÀ» »ý¼ºÁß: C:\Users\jinsu4755\Desktop\¸¶Å©¹öÅ¶\testserver\plugins\Essentials\userdata\dc4b3f62-c0e4-35cb-b3ee-3ef3979ebb8d.yml
+[22:25:57] [Server thread/INFO]: Rhuhoijin has made the advancement [Getting an Upgrade]
+[22:26:09] [Server thread/INFO]: Opped Rhuhoijin
+[22:26:41] [Server thread/INFO]: Rhuhoijin fell from a high place
+[22:27:34] [Server thread/INFO]: CONSOLE issued server command: /broadcast sex
+[22:28:07] [User Authenticator #4/INFO]: UUID of player ghost0O0 is f87d7e21-2022-3d74-8abe-03c5b8dfcc5b
+[22:28:07] [Server thread/INFO]: ghost0O0[/25.71.9.112:2008] logged in with entity id 3167 at ([world]-565.2104835629957, 63.0, -326.65427289460786)
+[22:29:50] [Server thread/INFO]: Rhuhoijin has made the advancement [Monster Hunter]
+[22:31:06] [Server thread/INFO]: Rhuhoijin was shot by ghost0O0
+[22:31:38] [User Authenticator #5/INFO]: UUID of player PLU_luvGF is 58c6eedd-b6c2-37a7-a1ac-7370be671bc6
+[22:31:38] [Server thread/INFO]: PLU_luvGF[/25.69.213.177:9190] logged in with entity id 4599 at ([world]-508.6813223491273, 72.4930431052786, -251.02032216131457)
+[22:34:45] [Server thread/INFO]: Rhuhoijin tried to swim in lava
+[22:38:29] [Server thread/INFO]: Rhuhoijin fell from a high place
+[22:41:25] [Server thread/INFO]: ghost0O0 issued server command: /home

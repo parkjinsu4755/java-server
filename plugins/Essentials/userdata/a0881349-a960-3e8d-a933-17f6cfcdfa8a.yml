@@ -1,0 +1,30 @@
+geolocation: United Kingdom
+lastAccountName: HusaGiko
+timestamps:
+  login: 1563202869629
+  logout: 1563208457337
+  lastteleport: 1563207483674
+ipAddress: 25.70.17.179
+lastlocation:
+  world: world
+  x: -213.60246132901418
+  y: 39.0
+  z: -161.69999998807907
+  yaw: 143.39186
+  pitch: 36.032654
+logoutlocation:
+  world: world
+  x: -409.5902266798649
+  y: 87.0
+  z: 6.754798113894256
+  yaw: 49.359863
+  pitch: 21.331917
+homes:
+  home:
+    world: world
+    x: -528.3369703790851
+    y: 61.0
+    z: -218.08773034377995
+    yaw: 183.51903
+    pitch: 20.141907
+afk: false

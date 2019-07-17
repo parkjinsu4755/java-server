@@ -1,0 +1,22 @@
+geolocation: United Kingdom
+lastAccountName: SandvichA
+timestamps:
+  login: 1562090482458
+  lastteleport: 1562093739382
+  logout: 1562095655426
+ipAddress: 25.85.11.209
+lastlocation:
+  world: world
+  x: -516.2641847141695
+  y: 70.5
+  z: -187.87098532173027
+  yaw: -5.1310425
+  pitch: 38.85052
+afk: false
+logoutlocation:
+  world: world
+  x: -523.1262297437476
+  y: 68.0
+  z: -197.64378335209835
+  yaw: 93.716125
+  pitch: 12.750121

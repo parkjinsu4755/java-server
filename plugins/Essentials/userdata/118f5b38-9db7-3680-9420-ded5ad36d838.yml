@@ -1,0 +1,21 @@
+geolocation: United Kingdom
+lastAccountName: magpie
+timestamps:
+  login: 1563280766847
+  lastteleport: 1563292688047
+  logout: 1563292840304
+ipAddress: 25.75.60.103
+lastlocation:
+  world: world_nether
+  x: -29.20348141221775
+  y: 62.0
+  z: 319.5571643167151
+  yaw: 118.11426
+  pitch: 43.049984
+logoutlocation:
+  world: world
+  x: -485.828254203983
+  y: 104.0
+  z: -248.42287697394403
+  yaw: -72.93671
+  pitch: 42.89998

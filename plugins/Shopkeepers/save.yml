@@ -1,0 +1,167 @@
+'1':
+  uniqueId: ff6ba0e0-15a7-4e34-8e9b-b47ebd67145b
+  name: Exchange
+  world: world
+  x: -500
+  y: 137
+  z: -164
+  type: admin
+  object:
+    type: villager
+    uuid: 6bd3ef60-b9fc-4879-b6ce-00e2bbf5aec1
+    prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 2
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f1_DB
+          lore:
+          - §3다이아_9개의 단위
+          - §3다이아 블럭 1개를 뜻함
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 8
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f1_DB
+          lore:
+          - §3다이아_9개의 단위
+          - §3다이아 블럭 1개를 뜻함
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §510_DB
+          lore:
+          - '§3DB: 다이아 블럭'
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 5
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §510_DB
+          lore:
+          - '§3DB: 다이아 블럭'
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d100_DB
+          lore:
+          - '§3DB: 다이아 블럭'
+'2':
+  uniqueId: a752ae13-7a48-44d3-a7d9-a2565947bd5c
+  name: HiddenShop
+  world: world
+  x: -493
+  y: 137
+  z: -171
+  type: admin
+  object:
+    type: villager
+    uuid: 44587851-37a9-401a-b4e9-8e7d634cd5ed
+    prof: PRIEST
+  recipes: {}
+'3':
+  uniqueId: edd8b6c2-4976-493a-9d7d-64de36d5b0ba
+  name: Exchange2
+  world: world
+  x: -500
+  y: 137
+  z: -165
+  type: admin
+  object:
+    type: villager
+    uuid: f53b15cf-49aa-4698-be39-2d8a646e48eb
+    prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f1_DB
+          lore:
+          - §3다이아_9개의 단위
+          - §3다이아 블럭 1개를 뜻함
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §510_DB
+          lore:
+          - '§3DB: 다이아 블럭'
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 8
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f1_DB
+          lore:
+          - §3다이아_9개의 단위
+          - §3다이아 블럭 1개를 뜻함
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d100_DB
+          lore:
+          - '§3DB: 다이아 블럭'
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 5
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §510_DB
+          lore:
+          - '§3DB: 다이아 블럭'

@@ -1,0 +1,22 @@
+geolocation: United Kingdom
+lastAccountName: Doran
+timestamps:
+  login: 1563298414787
+  lastteleport: 1563299665771
+  logout: 1563302218274
+ipAddress: 25.70.111.167
+lastlocation:
+  world: world
+  x: -405.5351976995655
+  y: 71.0
+  z: -588.0984217862585
+  yaw: 27.13132
+  pitch: 28.49997
+logoutlocation:
+  world: world
+  x: -508.54581565174146
+  y: 67.0
+  z: -308.391871402244
+  yaw: -356.58063
+  pitch: 23.399973
+afk: false

@@ -1,0 +1,12 @@
+well:
+  location: world, -490.958, 68.200, -218.636
+  lines:
+  - '&7신비한_우물'
+enchant:
+  location: world, -487.537, 138.262, -163.590
+  lines:
+  - '&6인첸트_방'
+spawn:
+  location: world, -492.457, 138.262, -158.413
+  lines:
+  - '&c스폰'

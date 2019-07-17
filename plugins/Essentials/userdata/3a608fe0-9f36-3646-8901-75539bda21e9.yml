@@ -1,0 +1,29 @@
+lastAccountName: HAW.P
+timestamps:
+  login: 1563217946598
+  lastteleport: 1563216900734
+  logout: 1563221859288
+ipAddress: 25.50.34.149
+lastlocation:
+  world: world
+  x: -579.3000000119209
+  y: 11.0
+  z: 12.699999988079066
+  yaw: -198.1184
+  pitch: 15.093265
+geolocation: United Kingdom
+homes:
+  home:
+    world: world
+    x: -486.26931375310744
+    y: 70.0
+    z: -270.1081161911288
+    yaw: 99.19873
+    pitch: 21.669514
+logoutlocation:
+  world: world
+  x: -488.4757299921844
+  y: 70.0
+  z: -268.51791947488647
+  yaw: 99.19873
+  pitch: 21.669514

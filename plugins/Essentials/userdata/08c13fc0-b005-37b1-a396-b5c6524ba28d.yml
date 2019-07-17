@@ -1,0 +1,22 @@
+lastAccountName: BBada
+timestamps:
+  login: 1563369535618
+  logout: 1563304314341
+  lastteleport: 1563206333365
+ipAddress: 25.84.141.251
+lastlocation:
+  world: world
+  x: -264.85550350095116
+  y: 70.0
+  z: -264.37701770717285
+  yaw: 293.112
+  pitch: 16.49999
+geolocation: United Kingdom
+logoutlocation:
+  world: world
+  x: -449.17451053976555
+  y: 92.37277690007525
+  z: -206.6364903041338
+  yaw: 247.75877
+  pitch: 31.399113
+afk: false

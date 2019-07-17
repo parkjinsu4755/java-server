@@ -1,0 +1,30 @@
+geolocation: United Kingdom
+lastAccountName: ghost0O0
+timestamps:
+  login: 1563370087651
+  lastteleport: 1563371895811
+  logout: 1563296114465
+ipAddress: 25.71.9.112
+lastlocation:
+  world: world
+  x: -571.2876415155637
+  y: 10.0
+  z: -186.32040458079427
+  yaw: 267.84082
+  pitch: 21.093077
+logoutlocation:
+  world: world
+  x: -565.2104835629957
+  y: 63.0
+  z: -326.65427289460786
+  yaw: 272.04883
+  pitch: 22.80856
+homes:
+  home:
+    world: world
+    x: -569.7835123754248
+    y: 63.0
+    z: -326.23616083728194
+    yaw: 92.08789
+    pitch: 16.936071
+afk: false
